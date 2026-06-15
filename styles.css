@@ -1,0 +1,9 @@
+.title {
+    color: rgb(236, 24, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    color: white;
+    background-color: black;
+}
